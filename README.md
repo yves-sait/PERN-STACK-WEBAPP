@@ -1,6 +1,6 @@
 # WEB APP for Tracking Covid19 
 
-The Web App is developed to track covid19 cases in a small provices. It features cards,graphs and heatmaps. The app is deployed and accessible to internet via Heroku Cloud App Platform.
+The Web App is developed to track covid19 cases in a small province. It features cards,graphs and heatmaps. The app is deployed and internet accessible  via Heroku Cloud App Platform.
 
 ## Built With
 - Express JS
