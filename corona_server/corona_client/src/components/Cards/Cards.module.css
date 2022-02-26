@@ -1,0 +1,101 @@
+.container{
+    margin-bottom: 30px;
+    width: 95%;
+   
+  
+    
+
+}
+
+.card{
+    margin: 0 2% !important;
+  
+    text-align: center !important;; 
+}
+
+.infected{
+     /*border-bottom: 10px solid rgba(14,41,123,255);*/
+    background-color: rgba(207,242,255,255)  !important;
+    color: rgba(14,41,123,255)
+    !important;
+    margin-top: 2%  !important;
+    border-radius: 16px  !important;
+    
+}
+
+.recovered{
+     /*border-bottom: 10px solid rgba(21,81,73,255) ; text color rgba(35,123,86,255)*/
+    background-color: rgba(200,249,204,255) !important;
+    color: rgba(21,81,73,255)  !important;
+    margin-top: 2%  !important;
+    border-radius: 16px  !important;
+}
+
+.deaths{
+    
+    /* text rgba(126,17,50,255)*/
+    /* background-color: rgba(254,247,206,255) !important; */
+    background-color: rgb(219,226,233)  !important;
+    color: rgba(67,70,75)!important;
+    /* color: rgba(122,79,2,255)  !important; */
+    margin-top: 2%  !important;
+    border-radius: 16px  !important;
+}
+
+.total{
+ 
+    background-color: rgba(253,231,217,255)    !important;
+    color: rgba(123,11,46,255)    !important;
+    margin-top: 2%  !important;
+    border-radius: 16px  !important;
+    
+}
+
+
+/* .top5{
+
+    background-color:  rgb(255, 247, 205) !important;
+    border-radius: 16px  !important;
+    color: rgb(122, 79, 1) !important;
+    margin-top: 2%  !important;
+}
+.toptable{
+
+    background-color:  rgb(255, 247, 205) !important;
+    color: rgb(122, 79, 1) !important;
+
+    /* color: rgb(122, 79, 1); */ 
+
+
+
+.hosp{
+    color: rgb(12, 83, 183) !important;
+    background: linear-gradient(135deg, rgba(12, 83, 183, 0) 0%, rgba(12, 83, 183, 0.24) 100%) !important;
+}
+.user{
+    color: rgb(0, 123, 85) !important;
+    background:  linear-gradient(135deg, rgba(0, 123, 85, 0) 0%, rgba(0, 123, 85, 0.24) 100%) !important;
+}
+
+.cross{
+    /* color: rgb(183, 129, 3) !important; */
+    color: rgb(67,70,75) !important; 
+
+    background:  linear-gradient(135deg, rgba(26, 26, 24, 0) 0%, rgba(51, 41, 18, 0.24) 100%)!important;
+}
+
+.virus{
+    color: rgb(183, 33, 54) !important;
+    background: linear-gradient(135deg, rgba(183, 33, 54, 0) 0%, rgba(183, 33, 54, 0.24) 100%)!important;
+
+}
+
+
+
+@media(max-width: 770px){
+    .card{
+        margin: 2%  !important;
+    }
+}
+
+

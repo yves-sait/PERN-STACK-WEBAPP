@@ -1,0 +1,16 @@
+.coffee{
+    width: 100%;
+    /*background-color: rgba(207,207,196, .7);*/
+    background-color: #eeeeee;
+    
+
+}
+
+@media(max-width: 770px){
+    .coffeetxt{
+        font-size: 15px  !important;
+        text-align: center !important;
+    }
+  
+   
+}

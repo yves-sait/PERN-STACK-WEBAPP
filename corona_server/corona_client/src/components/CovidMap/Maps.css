@@ -1,0 +1,40 @@
+.leaflet-container{
+    height: 100vh;
+ 
+    background-color: rgb(207,242,255,255) ;
+    
+}
+
+.cmaps{
+    width: 85%;
+    margin-top: 10px;
+}
+.legend{
+    align-items: stretch  !important;
+
+
+}
+
+
+@media(max-width: 515px){
+    .legend{
+        align-items: stretch  !important;
+        display: block !important;
+       
+
+    }
+    .legendBlock{
+        height: 15px  !important;
+        font-size: 10px !important;
+
+
+    }
+
+    .leaflet-container{
+        height: 60vh !important;
+     
+       
+        
+    }
+   
+}
