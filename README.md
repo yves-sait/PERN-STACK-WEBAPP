@@ -13,15 +13,18 @@ The Web App is developed to track covid19 cases in a small province. It features
 - Leaflet
 
 ## WEB Application Screenshots
+
 - Cards
-![Home Page](https://github.com/yves-sait/PERN-STACK-WEBAPP/blob/master/Screenshots/top.jpg "Cards")
+
+![Cards](https://github.com/yves-sait/PERN-STACK-WEBAPP/blob/master/Screenshots/top.jpg "Cards")
 
 - Charts
+
 ![Charts](https://github.com/yves-sait/PERN-STACK-WEBAPP/blob/master/Screenshots/graph.jpg "Charts")
 
 - HeatMap
-![HeatMap](https://github.com/yves-sait/PERN-STACK-WEBAPP/blob/master/Screenshots/map.jpg "HeatMap")
 
+![HeatMap](https://github.com/yves-sait/PERN-STACK-WEBAPP/blob/master/Screenshots/map.jpg "HeatMap")
 
 - Bar Chart race via youtube API
 ![Bar Chart](https://github.com/yves-sait/PERN-STACK-WEBAPP/blob/master/Screenshots/youtube.jpg "Bar Chart")
